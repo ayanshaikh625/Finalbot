@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "RemUI+Anticheat",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "coldwave0.aternos.me",
+    "port": 32523,
     "version": "",
     "try-creative": false
   },
@@ -85,7 +85,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1555449246440882206/0QO-IFKg2WR8u6whhM8YjXd3xPAoDT5T5FynPtW9d4VL5mYLkCWc4BXGF9LtXAeKUSYY",
     "events": {
       "connect": true,
       "disconnect": true,
